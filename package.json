@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://sigizmunde.github.io/neekso-icecream",
+  "homepage": "https://RuslanChuprov.github.io/Neekso-icecream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /neekso-icecream/"
+    "build": "parcel build src/*.html --public-url /Neekso-icecream/"
   },
   "repository": {
     "type": "git",
